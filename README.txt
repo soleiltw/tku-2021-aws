@@ -1,6 +1,0 @@
-TKU 2021 AWS Classroom
-
-# Setup ENV before run
-* AWS_ACCESS_KEY_ID
-* AWS_SECRET_ACCESS_KEY
-* AWS_DEFAULT_REGION=ap-northeast-1
